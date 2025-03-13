@@ -6,22 +6,22 @@
   on_macos do
     on_arm do
       url "https://github.com/mitch-thompson/versionedTerraform/releases/download/1.2.4/versionedTerraform_darwin_arm64.tar.gz"
-      sha256 "b2b9beff5e25608345945166af76dc342aea4d7a00b2e118f1576ef2d3f12e65"
+      sha256 "007deef4ba453bfd2ca47bf484e7c4d9d9d83f63fba13e0226e9fc0c3e21c239"
     end
     on_intel do
       url "https://github.com/mitch-thompson/versionedTerraform/releases/download/1.2.4/versionedTerraform_darwin_amd64.tar.gz"
-      sha256 "7a43adb7324ad96a04283264517fac22196bd8ac98381cbf1893c5b232eddffe"
+      sha256 "f61ddb578708fdeb375e8f159fab8a3aed83640f4bf88fee6dce8b8e900d6ae4"
     end
   end
 
   on_linux do
     on_arm do
       url "https://github.com/mitch-thompson/versionedTerraform/releases/download/1.2.4/versionedTerraform_linux_arm64.tar.gz"
-      sha256 "39cd81930dba93253ef720080b311dc1075bbfc7a12fd8998154be8de856cecb"
+      sha256 "7ed3228b2a01dd7b5cfda102f0fdd218d6b871a2c8cd966e0f936aca51c0fddd"
     end
     on_intel do
       url "https://github.com/mitch-thompson/versionedTerraform/releases/download/1.2.4/versionedTerraform_linux_amd64.tar.gz"
-      sha256 "5e891a3b0c9d1c72d547054760907db9082804305d7fa7222147e8b231661f03"
+      sha256 "8fe6960c07ab6853b5d99816a2daed93053ece1e0c79305db1313d7c169ed8b0"
     end
   end
 
